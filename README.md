@@ -7,7 +7,7 @@ Contains 3 files:
     ![Capturehtml](https://user-images.githubusercontent.com/60129101/74538847-0ad04780-4f63-11ea-80a4-0dfe06dd1738.JPG)
     
 2: game.css
-    Contains the css styling for making the buttons circle and gray in color.
+    Contains the css styling for making the buttons circle and gray in color.(i.e. radius = 50%)
     ss:
     ![Capturecss](https://user-images.githubusercontent.com/60129101/74538914-263b5280-4f63-11ea-97e3-8fc440104d3d.JPG)
     
