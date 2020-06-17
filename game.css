@@ -2,7 +2,7 @@
   width: 100px;
   height: 100px;
   background-color: gray;
-  border-radius: 50%;
+  border-radius: 50%; /*this is used for making buttons a circle */
   border: 4px solid black; /*this gets rid of bootstrap shadow*/
   margin: 1px;
 }
