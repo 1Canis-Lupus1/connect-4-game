@@ -1,4 +1,4 @@
-# connect-4-game
+# connect-4-game 
 Connect 4 game made using (Html+Css+Javascript(Jquery)) 
 Contains 3 files:
 1: game.html
